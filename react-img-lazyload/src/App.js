@@ -5,22 +5,6 @@ function App() {
   return (
     <div className="App">
         <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
-        <Lazyload src={icon}/>
     </div>
   );
 }

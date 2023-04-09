@@ -57,7 +57,7 @@ const Lazyload = (props) => {
 
     return(
         <>
-        {Array(100).fill(0).map((_,i) => i + 1).map((item,index)=>{
+        {Array(1002).fill(0).map((_,i) => i + 1).map((item,index)=>{            
             return (
                 <img key={index} src={icon} data-src={props.src} alt="" className="lazyImg"/>
             )
